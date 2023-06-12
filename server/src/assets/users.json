@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "user": "Alice",
+            "credits": 4
+        },
+        {
+            "user": "Bob",
+            "credits": 5
+        },
+        {
+            "user": "Charlie",
+            "credits": 2
+        },
+        {
+            "user": "David",
+            "credits": 6
+        },
+        {
+            "user": "Eve",
+            "credits": 3
+        }
+    ]
+}

@@ -1,0 +1,64 @@
+{
+    "companies": [
+      {
+        "name": "Consensys",
+        "website": "https://consensys.net/",
+        "size": "1000+ employees",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "name": "Chainlink",
+        "website": "https://chain.link/",
+        "size": "51-200 employees",
+        "location": "San Francisco, California"
+      },
+      {
+        "name": "Polygon",
+        "website": "https://polygon.technology/",
+        "size": "201-500 employees",
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Balancer",
+        "website": "https://balancer.finance/",
+        "size": "11-50 employees",
+        "location": "New York, New York"
+      },
+      {
+        "name": "Aave",
+        "website": "https://aave.com/",
+        "size": "51-200 employees",
+        "location": "London, United Kingdom"
+      },
+      {
+        "name": "Immutable",
+        "website": "https://immutable.com/",
+        "size": "51-200 employees",
+        "location": "Sydney, Australia"
+      },
+      {
+        "name": "Uniswap",
+        "website": "https://uniswap.org/",
+        "size": "11-50 employees",
+        "location": "Brooklyn, New York"
+      },
+      {
+        "name": "Yearn Finance",
+        "website": "https://yearn.finance/",
+        "size": "11-50 employees",
+        "location": "Sunnyvale, California"
+      },
+      {
+        "name": "Compound",
+        "website": "https://compound.finance/",
+        "size": "11-50 employees",
+        "location": "San Francisco, California"
+      },
+      {
+        "name": "Synthetix",
+        "website": "https://synthetix.io/",
+        "size": "11-50 employees",
+        "location": "Sydney, Australia"
+      }
+    ]
+  }
